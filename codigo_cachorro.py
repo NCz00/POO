@@ -50,13 +50,20 @@ class Cachorro:
 
 
 # Criação de um objeto Cachorro
-cachorro1 = Cachorro("Big", "Huski", 6, 3, 8)  # nome, raça, comida, idade, peso
+cachorro1 = Cachorro("Lisboa", "Versinha", 6, 3, 8)  # nome, raça, comida, idade, peso
 
 # Exemplo de interações
 cachorro1.acordar()  # O cachorro acorda
 cachorro1.brincar()   # O cachorro brinca
 cachorro1.comer()     # O cachorro come
 cachorro1.dormir()    # O cachorro dorme
-        
-
-    
+cachorro1.brincar()   # O cachorro brinca
+cachorro1.acordar()  # O cachorro acorda
+cachorro1.brincar()   # O cachorro brinca
+cachorro1.brincar()   # O cachorro brinca
+cachorro1.brincar()   # O cachorro brinca
+cachorro1.brincar()   # O cachorro brinca
+cachorro1.brincar()   # O cachorro brinca
+cachorro1.brincar()   # O cachorro brinca
+cachorro1.dormir()    # O cachorro dorme
+cachorro1.acordar()  # O cachorro acorda
